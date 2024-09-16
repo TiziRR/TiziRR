@@ -1,7 +1,7 @@
 ### Hi, Im Tiziano Rossi Raczkoski 👋
 
 - Estudiante de Programación
-- Tengo 19 Años y soy Argentino.
+- Tengo 20 Años y soy Argentino.
 - Estricto, empatico y disposición para el trabajo en equipo.
   
 
