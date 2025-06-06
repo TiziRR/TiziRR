@@ -30,7 +30,7 @@ explaining. I am interested in joining groups that share these same qualities.
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats  
 [![](https://github-readme-stats.vercel.app/api?username=tizirr&show_icons=true&theme=graywhite&hide_border=true&locale=en)](https://github.com/TiziRR)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tizirr&show_icons=true&theme=graywhite&hide_border=true&locale=en)](https://github.com/TiziRR)
+
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=TiziRR&repo=librery-sim&theme=graywhite&show_owner=true)
 
